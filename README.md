@@ -1,2 +1,3 @@
 # kevography_1.github.io
-repository for GEOG 495 version of lab 1
+Repository for GEOG 495 version of lab 1
+[wiki page](wiki.md)
